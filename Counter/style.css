@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+#countLabel{
+    font-size: 10em;
+}
+.btn{
+    font-size: 1.2em;
+    color: rgb(250, 236, 219);
+    background-color: rgb(3, 142, 96);
+    border-radius: 5px;
+    border-color: rgb(3, 142, 96);
+    padding: 5px;
+    margin: 0px 10px;
+    cursor:pointer;
+    transition: background-color 0.25s;
+}
+.btn:hover{
+    background-color: rgb(1, 80, 54);
+    border-color: rgb(1, 80, 54);
+}
