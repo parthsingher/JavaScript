@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(29, 28, 28);
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    background-color: rgb(240, 248, 246);
+    border: 0;
+    border-radius: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(40, 40, 40);
+    font-size: 1.1em;
+    cursor: pointer;
+}
+input{
+    background-color: antiquewhite;
+    padding: 3px;
+    border: 0cap;
+    margin: 10px;
+}
+.myDiv{
+    border: 2px solid antiquewhite;
+    width: 500px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-direction: column;
+}
